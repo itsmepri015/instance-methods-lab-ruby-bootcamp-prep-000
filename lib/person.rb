@@ -2,7 +2,7 @@ class Person
 
   
   def talk
-    puts "Woof!"
+    puts "Hello World!"
   end
   
   def walk
