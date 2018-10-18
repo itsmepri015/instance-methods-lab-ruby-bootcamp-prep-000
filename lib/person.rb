@@ -1,5 +1,12 @@
 class Person
-end
 
-fido = Dog.new 
-snoopy = Dog.new 
+  
+  def talk
+    puts "Woof!"
+  end
+  
+  def walk
+    puts "The Dog is sitting"
+  end
+  
+end
